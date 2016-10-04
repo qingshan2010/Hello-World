@@ -15,7 +15,7 @@ sudo apt-get install git
 [这里有离线安装包](http://pan.baidu.com/s/1c2A4UTa)
 下载后直接点击`GitHub.application`安装即可
 
-![GitHub Desktop](安装git/2016-10-04_170115.jpg)
+![GitHub Desktop](images/2016-10-04_170115.jpg)
 
 一直没搞明白[git for windows](https://git-for-windows.github.io/)与[GitHub Desktop](https://desktop.github.com/)的区别，有哪位大神指点一二
 
