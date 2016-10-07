@@ -48,11 +48,9 @@ $ git reflog
 d18eb5c HEAD@{1}: commit: readme.txt add
 197b923 HEAD@{2}: commit (initial): readme file
 ```
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTc1MDUxOTk3Mg==' frameborder=0 'allowfullscreen'></iframe>
 
 http://player.youku.com/player.php/sid/XMTc1MDUxOTk3Mg==/v.swf
 
-<embed src='http://player.youku.com/player.php/sid/XMTc1MDUxOTk3Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ## 小结
 
