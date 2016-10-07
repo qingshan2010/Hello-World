@@ -48,3 +48,5 @@ $ git commit -m "add distributed"
 
  * 随时掌握工作区的状态，使用`git status`命令
  * `git status`告诉你有文件被修改过，用`git diff`可以查看修改内容
+
+[参考资料](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743858312764dca7ad6d0754f76aa562e3789478044000)
